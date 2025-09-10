@@ -1,0 +1,29 @@
+    :root{
+        --color1: #EFEFEF;
+        --color2: #7B7777;
+    }
+    a{
+        text-decoration: none;
+    }
+    .container{
+        width: 100%;
+        max-width: 1140px;
+        margin-left:auto;
+        margin-right:auto;
+    }
+    body{
+        color: var(--color3);
+    }
+    *{
+        font-family: "DM Sans", sans-serif;
+    }
+    .button{
+        width: 180px;
+        height: auto;
+        background: #F7D9C4;
+        color:black;
+        padding:20px 35px;
+        text-align: center;
+        border-radius: 5px;
+        font-size: 17.6px;
+    }
